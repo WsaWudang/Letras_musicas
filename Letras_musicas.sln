@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Letras_musicas", "Letras_musicas.pyproj", "{1DCD3F27-0CC3-4B69-B825-DAB9DE4D3CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCD3F27-0CC3-4B69-B825-DAB9DE4D3CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCD3F27-0CC3-4B69-B825-DAB9DE4D3CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85CF9AB4-0527-4CF7-B0AF-82537511475D}
+	EndGlobalSection
+EndGlobal
